@@ -1,3 +1,3 @@
-<h1 align="center">
+<b align="center">
   🍁 Maple · Rethinking UI on Roblox
-</h1>
+</b>
