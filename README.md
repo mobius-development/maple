@@ -3,15 +3,14 @@
   Include information on what makes Maple a superior choice - what is unique about Maple compared to e.g. Roact?
 -->
 
-<h3 align="center">
+<h3>
   🍁 Maple · Rethinking UI on Roblox
 </h3>
 
-<p align="center">
+<p>
   A smart, declarative framework for creating sophisticated and elegant interfaces, powered by the Roblox platform. <br /> 
 
-  Using a stylish and flexible syntax, Maple supercharges your development, allowing you to spend 
-  less time writing your code and more time perfecting it. <br />
+  Using a stylish and flexible syntax, Maple supercharges your development, allowing you to spend less time writing your code and more time perfecting it. <br />
 
   <a href="https://github.com/mobiusdevs/maple-design/pulls">Contributing</a> · <a href="https://mobiusdevs.github.io/maple">View the docs</a>
 </p>
