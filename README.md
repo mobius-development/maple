@@ -9,5 +9,7 @@
 
 <p align="center">
   A smart, declarative framework for creating sophisticated and elegant interfaces, powered by the Roblox platform. <br />
+  
+  Using a stylish and flexible syntax, Maple supercharges your development, allowing you to spend less time writing your code and more time perfecting it. <br />
   <a href="https://github.com/mobiusdevs/maple-design/pulls">Contributing</a> · <a href="https://mobiusdevs.github.io/maple">View the docs</a>
 </p>
