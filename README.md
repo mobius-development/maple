@@ -1,3 +1,8 @@
+<!--
+  Ensure the logo has been completed and affixed to the top of the README.md document within ~1 week, preparing for alpha release.
+  Include information on what makes Maple a superior choice - what is unique about Maple compared to e.g. Roact?
+-->
+
 <h3 align="center">
   🍁 Maple · Rethinking UI on Roblox
 </h3>
