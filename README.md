@@ -3,5 +3,5 @@
 </h3>
 
 <p align="center">
-  An smart, declarative framework for creating sophisticated and elegant interfaces, powered by the Roblox platform.
+  A smart, declarative framework for creating sophisticated and elegant interfaces, powered by the Roblox platform.
 </p>
