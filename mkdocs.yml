@@ -1,7 +1,33 @@
 # Configuration for Maple documentation. 
 
 site_name: Maple
+repo_url: https://github.com/mobiusdevs/maple
+repo_name: mobiusdevs/maple
+
 theme:
   name: material
+  language: en
   palette:
-    scheme: slate
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
