@@ -1,1 +1,7 @@
-site_name: My Docs
+# Configuration for Maple documentation. 
+
+site_name: Maple
+theme:
+  name: material
+  palette:
+    scheme: slate
